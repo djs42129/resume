@@ -8,7 +8,7 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #212529;
 }
 
 a:hover {
@@ -65,8 +65,8 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #212529;
+  border-color: #212529;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
